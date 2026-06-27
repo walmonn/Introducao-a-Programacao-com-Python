@@ -3,5 +3,5 @@
 print("Olá Mundo!")
 
 #Usando uma variável
-msg = "Olá Mundo!"
+msg = "Olá Mundo, Cheguei!"
 print(msg)
